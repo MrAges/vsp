@@ -1,4 +1,4 @@
-## Welcome to ViennaStockPool´s
+## Welcome to the ViennaStockPool
 
 Servus.
 
