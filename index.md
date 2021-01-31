@@ -22,7 +22,7 @@ Monitored via Prometheus and Graphana **24/7**.
 1x Relaynode (2 Core, 4GB RAM, HDD)
 
 more RAM comming soon (still orderd 8GB each)  
-SSDs, redundant PSU, second relaynode are the next steps. So please support my Node  
+SSDs, redundant PSU, second relaynode are the next steps. So please support my Pool  
 
 *More details comming soon...*
 
