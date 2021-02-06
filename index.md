@@ -5,7 +5,7 @@ Servus.
 Some time ago I started a small project in which I wanted to take a closer look at crypto currencies and finally got stuck with ADA (Cordana).
 To support the community I built a Linux server out of some unused PC hardware and installed a Cordana node - which surprisingly took much more time than I thought;) The server now runs quietly 24/7 in the office and is constantly being maintained and further developed. Together we will make a good contribution to the Cardano network and support this great technology.
 
-**HELP ME GETTING BIGGER**
+**HELP ME GETTING BIGGER**  
 Every single coin we earn will be invested in the node. As proof, every new purchase is sufficiently celebrated and published. 
 
 ### Details
