@@ -12,7 +12,7 @@ To support the community I built a Linux server out of some unused PC hardware a
 Ticker: VSP  
 Pool ID: f019acb1df16035f2311d242ea946e5c856f81ea4f1d4002a0c1b870  
 Fee: 5% (will decrease to 1.5% when we have at least 5 delegators or 50k A stake)  
-Pledge: 100 A (will increase to 1k A in Epoche 246)  
+Pledge: 100 A (will increase to 1k A in Epoche 248)  
 
 Monitored via Prometheus and Graphana **24/7**.
 
